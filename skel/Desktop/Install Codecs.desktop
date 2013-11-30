@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_GB]=mate-panel-launcher
+Name[en_GB]=Install Codecs
+Exec=/usr/local/bin/installcodecs
+Name=Install Codecs
+Icon=mate-panel-launcher

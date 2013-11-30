@@ -1,0 +1,10 @@
+deb http://speglar.simnet.is/mint/packages/ olivia main upstream import backport romeo 
+
+deb http://archive.ubuntu.com/ubuntu/ raring main restricted universe multiverse 
+deb http://archive.ubuntu.com/ubuntu/ raring-updates main restricted universe multiverse 
+
+deb http://security.ubuntu.com/ubuntu/ raring-security main restricted universe multiverse 
+deb http://archive.canonical.com/ubuntu/ raring partner 
+
+
+

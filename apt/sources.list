@@ -1,0 +1,8 @@
+deb http://archive.getdeb.net/ubuntu/ raring-getdeb apps games 
+
+# deb http://packages.medibuntu.org/ raring free non-free 
+
+# MariaDB 10.0 repository list - created 2013-11-06 16:23 UTC
+# http://mariadb.org/mariadb/repositories/
+deb http://mirrors.coreix.net/mariadb/repo/10.0/ubuntu raring main
+deb-src http://mirrors.coreix.net/mariadb/repo/10.0/ubuntu raring main

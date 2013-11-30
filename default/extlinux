@@ -1,0 +1,15 @@
+## /etc/default/extlinux - configuration file for extlinux-update(8)
+
+EXTLINUX_UPDATE="true"
+
+EXTLINUX_ALTERNATIVES="default recovery"
+EXTLINUX_DEFAULT="l0"
+EXTLINUX_ENTRIES="all"
+EXTLINUX_MEMDISK="true"
+EXTLINUX_MEMDISK_DIRECTORY="/boot"
+EXTLINUX_MENU_LABEL="LinuxMint GNU/Linux, kernel"
+EXTLINUX_OS_PROBER="true"
+EXTLINUX_PARAMETERS="ro quiet"
+EXTLINUX_ROOT="root=UUID=37e359e5-fdb6-4115-8ef3-3302c71c20e2"
+EXTLINUX_THEME="debian"
+EXTLINUX_TIMEOUT="50"

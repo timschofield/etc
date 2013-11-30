@@ -1,0 +1,10 @@
+RELEASE=15
+CODENAME=olivia
+EDITION="MATE 64-bit"
+DESCRIPTION="Linux Mint 15 Olivia"
+DESKTOP=MATE
+TOOLKIT=GTK
+NEW_FEATURES_URL=http://www.linuxmint.com/rel_olivia_whatsnew.php
+RELEASE_NOTES_URL=http://www.linuxmint.com/rel_olivia.php
+USER_GUIDE_URL=http://www.linuxmint.com/documentation.php
+GRUB_TITLE=Linux Mint 15 MATE 64-bit
